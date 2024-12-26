@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "fullName": "Иванов Иван Иванович",
+      "department": "кардиологическое",
+      "isHead": true
+    },
+    {
+      "id": 2,
+      "fullName": "Петров Петр Петрович",
+      "department": "хирургическое",
+      "isHead": false
+    }
+  ]
